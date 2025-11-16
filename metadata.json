@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SkillMatch",
+  "description": "A skills-based job matching platform. Instead of resumes, job seekers answer short skill-based questions, and employers get matched with only top-scoring, verified candidates.",
+  "requestFramePermissions": []
+}
